@@ -1,1 +1,1 @@
-# welcone and environment set up
+# welcome and environment set up
